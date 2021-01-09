@@ -36,6 +36,12 @@ It runs on an Arduino.
 Arduinoの回路を以下のように設計する。
 
 Design the Arduino circuit as follows.
+
+* 加速度センサ = Accelerometer
+* スピーカー = Speaker
+* ブレッドボード = Breadboard
+* ケーブル = Wire
+
 ![blueprint](https://github.com/Kasugaccho/Whack-A-Mole/blob/master/Picture/blueprint.png)
 
 Arduinoをハンマーに下図のように装着する。
