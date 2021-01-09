@@ -9,7 +9,7 @@ It runs on an Arduino.
 
 # 導入手順 (Installation Procedure)
 
-### 使うもの (What to use)
+## 使うもの (What to use)
 
 |名前|個数|
 |:---|:---|
@@ -31,7 +31,7 @@ It runs on an Arduino.
 |Wire|Several wires|
 |Hammer|1pc|
 
-### 実装方法 (How to implement)
+## 実装方法 (How to implement)
 
 Arduinoの回路を以下のように設計する。
 
@@ -48,3 +48,9 @@ Arduinoをハンマーに下図のように装着する。
 
 Attach the Arduino to the hammer as shown below.
 ![hammer](https://github.com/Kasugaccho/Whack-A-Mole/blob/master/Picture/hammer.png)
+
+# License
+
+These codes are licensed under CC0.
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
