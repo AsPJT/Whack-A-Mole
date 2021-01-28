@@ -1,6 +1,6 @@
-![WhackAMole](https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/whack_a_mole.png)
+![WhackAMole](https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/whack_a_mole.png)
 
-![mole](https://github.com/Kasugaccho/Whack-A-Mole/blob/master/Picture/screen.png)
+![mole](https://github.com/AsPJT/Whack-A-Mole/blob/master/Picture/screen.png)
 
 ‪作成したモグラ叩きです。‬
 
@@ -42,12 +42,12 @@ Design the Arduino circuit as follows.
 * ブレッドボード = Breadboard
 * ケーブル = Wire
 
-![blueprint](https://github.com/Kasugaccho/Whack-A-Mole/blob/master/Picture/blueprint.png)
+![blueprint](https://github.com/AsPJT/Whack-A-Mole/blob/master/Picture/blueprint.png)
 
 Arduinoをハンマーに下図のように装着する。
 
 Attach the Arduino to the hammer as shown below.
-![hammer](https://github.com/Kasugaccho/Whack-A-Mole/blob/master/Picture/hammer.png)
+![hammer](https://github.com/AsPJT/Whack-A-Mole/blob/master/Picture/hammer.png)
 
 # License
 
